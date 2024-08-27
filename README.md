@@ -1,2 +1,2 @@
 # Simple-Calculator
-![Capture](https://github.com/user-attachments/assets/9bfc4e6e-ce58-4db8-bb3e-e0851e663c05)
+![simple calculator](https://github.com/user-attachments/assets/1696fcb7-097e-45f3-9faf-47302891f57e)
